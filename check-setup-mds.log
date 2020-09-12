@@ -1,0 +1,182 @@
+# MDS setup check 1.0.0
+
+## Operating system
+Microsoft Windows 10 Education
+64-bit          
+10.0.19041
+
+## System programs
+OK        psql (PostgreSQL) 12.4
+OK        rstudio 1.3.1091
+OK        tlmgr revision 55369 (2020-06-01 02:32:00 +0200)
+OK        R 4.0.2 (2020-06-22) -- "Taking Off Again"
+OK        python 3.8.3
+OK        conda 4.8.4
+OK        bash 4.4.23(1)-release (x86_64-pc-msys)
+OK        git 2.28.0.windows.1
+OK        make 4.3
+OK        latex 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX)
+OK        docker 19.03.12, build 48a66213fe
+OK        code 1.49.0
+
+## Python packages
+OK        jupyterlab=2.2.7
+OK        numpy=1.19.1
+OK        pandas=1.1.2
+OK        flake8=3.8.3
+OK        black=19.10b0
+OK        nodejs=10.22.0
+OK        jupytext=1.6.0
+OK        jupyterlab-git=0.21.1
+OK        jupyterlab PDF-generation was successful.
+
+## R packages
+OK        tidyverse=1.3.0
+OK        blogdown=0.20
+OK        xaringan=0.16
+OK        renv=0.12.0
+OK        IRkernel=1.1.1
+OK        tinytex=0.25
+OK        rmarkdown PDF-generation was successful.
+
+## Environmental variables
+CONDA_SHLVL=1
+USERDOMAIN=DESKTOP-L6HA6T8
+OS=Windows_NT
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+CONDA_EXE=C:/Users/thoms/miniconda3/Scripts/conda.exe
+PROCESSOR_LEVEL=23
+LANG=en_US.UTF-8
+MSYSTEM_CARCH=x86_64
+DISPLAY=needs-to-be-defined
+HOSTNAME=DESKTOP-L6HA6T8
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+PUBLIC=C:\Users\Public
+OLDPWD=C:/Users/thoms
+CONFIG_SITE=C:/Program Files/Git/mingw64/etc/config.site
+EXEPATH=C:\Program Files\Git
+ONEDRIVECONSUMER=C:\Users\thoms\OneDrive
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+MSYSTEM_CHOST=x86_64-w64-mingw32
+USERNAME=thoms
+CONDA_PREFIX=C:\Users\thoms\miniconda3
+LOGONSERVER=\\DESKTOP-L6HA6T8
+PROCESSOR_ARCHITECTURE=AMD64
+PROGRAMW6432=C:\Program Files
+LOCALAPPDATA=C:\Users\thoms\AppData\Local
+_CE_M=
+COMPUTERNAME=DESKTOP-L6HA6T8
+PAGER=cat
+SYSTEMDRIVE=C:
+USERPROFILE=C:\Users\thoms
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+SYSTEMROOT=C:\WINDOWS
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-L6HA6T8
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+JPY_PARENT_PID=2972
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+PWD=/c/Users/thoms/Desktop/UBCO_MDS/DATA_530/Labs/Lab1/data-530-lab1-thomsonhawks
+SSH_ASKPASS=C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass
+RTOOLS40_HOME=C:\rtools40
+HOME=/c/Users/thoms
+TMP=/tmp
+CONDA_PYTHON_EXE=C:/Users/thoms/miniconda3/python.exe
+R_USER=C:\Users\thoms
+TERM_PROGRAM=mintty
+CLICOLOR=1
+TERM_PROGRAM_VERSION=3.2.0
+MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+ONEDRIVE=C:\Users\thoms\OneDrive
+PROGRAMDATA=C:\ProgramData
+_CE_CONDA=
+!C:=C:\Users\thoms\Desktop\UBCO_MDS\DATA_530\Labs\Lab1\data-530-lab1-thomsonhawks
+PROCESSOR_REVISION=6001
+PROGRAMFILES(X86)=C:\Program Files (x86)
+TMPDIR=/tmp
+PROMPT=$P$G
+NUMBER_OF_PROCESSORS=6
+CONDA_PROMPT_MODIFIER=(base) 
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+APPDATA=C:\Users\thoms\AppData\Roaming
+TERM=xterm-color
+SHELL=/usr/bin/bash.exe
+JPY_INTERRUPT_EVENT=2980
+MPLBACKEND=module://ipykernel.pylab.backend_inline
+WINDIR=C:\WINDOWS
+MINGW_CHOST=x86_64-w64-mingw32
+SHLVL=2
+PLINK_PROTOCOL=ssh
+GIT_PYTHON_REFRESH=quiet
+PROGRAMFILES=C:\Program Files
+ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+ORIGINAL_TEMP=C:/Users/thoms/AppData/Local/Temp
+ORIGINAL_TMP=C:/Users/thoms/AppData/Local/Temp
+ALLUSERSPROFILE=C:\ProgramData
+TEMP=/tmp
+IPY_INTERRUPT_EVENT=2980
+MSYSTEM=MINGW64
+MINGW_PREFIX=C:/Program Files/Git/mingw64
+SESSIONNAME=Console
+PATH=/c/Users/thoms/make-4.3/bin:/c/Program Files/R/R-4.0.2/bin/x64:/c/Users/thoms/miniconda3:/c/Users/thoms/miniconda3/Library/mingw-w64/bin:/c/Users/thoms/miniconda3/Library/usr/bin:/c/Users/thoms/miniconda3/Library/bin:/c/Users/thoms/miniconda3/Scripts:/c/Users/thoms/miniconda3/bin:/c/Users/thoms/miniconda3/Scripts/condabin:/c/Users/thoms/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/usr/bin:/mingw64/bin:/usr/bin:/c/Users/thoms/bin:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/cmd:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/c/Users/thoms/AppData/Local/Microsoft/WindowsApps:/c/Users/thoms/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/thoms/AppData/Roaming/TinyTeX/bin/win32:/usr/bin/vendor_perl:/usr/bin/core_perl
+DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+CONDA_DEFAULT_ENV=base
+INFOPATH=C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+HOMEPATH=\Users\thoms
+ORIGINAL_PATH=/mingw64/bin:/usr/bin:/c/Users/thoms/bin:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/cmd:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/c/Users/thoms/AppData/Local/Microsoft/WindowsApps:/c/Users/thoms/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/thoms/AppData/Roaming/TinyTeX/bin/win32
+PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+GIT_PAGER=cat
+_=/usr/bin/env
+
+## Content of .bash_profile
+# Set the default editor for programs launch from terminal
+EDITOR="code --wait"
+VISUAL=$EDITOR  # Use the same value as for "EDITOR" in the line above
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+eval "$('/C/Users/thoms/miniconda3/Scripts/conda.exe' 'shell.bash' 'hook')"
+# <<< conda initialize <<<
+# Add R, Rscript, and Make to path
+export PATH="/c/Users/${USERNAME}/make-4.3/bin":"/c/Program Files/R/R-4.0.2/bin/x64":$PATH
+# TAB completion configuration
+# TAB completion ignores case
+bind "set completion-ignore-case on"
+# Require only one instead of two TAB presses before showing matches
+bind "set show-all-if-ambiguous on"
+# If there are multiple matches for completion, cycle through them with TAB
+bind 'TAB':menu-complete
+# Perform partial completion on the first Tab press,
+# only start cycling full results on the second Tab press
+bind "set menu-complete-display-prefix on"
+
+# History configuration
+# Cycle through history based on characters already typed on the line
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+# Append to the history file, don't overwrite it.
+shopt -s histappend
+# Write commands to history one-by-one right after they are executed
+# instead of all together when the terminal is closed.
+# Make new terminals see all commands run in currently open terminals and
+# prepend a newline to the prompt string to separate it from the last command's output
+PROMPT_COMMAND='history -a; echo'
+# Increase history size
+HISTSIZE=50000
+HISTFILESIZE=50000
+
+# Aliases
+# Note that aliases only are in effect when you are using the shell interactively
+# (e.g. opening the Git Bash terminal and typing or pasting commands).
+# If you run a bash script or makefile,
+# the original command is used instead of your alias.
+# Run Python and Docker in compatibility mode when started from an interactive shell
+alias python="winpty python"
+alias docker="winpty docker"
+# `man` function to display help messages with a pager as on Unix
+man() {
+    $1 --help | less
+}
+## Content of .bashrc
+~/.bashrc not found
